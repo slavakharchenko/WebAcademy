@@ -1,0 +1,22 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "DevOps Course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavakharchenko/WebAcademy.git"
+  },
+  "author": "Viacheslav Kharchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavakharchenko/WebAcademy/issues"
+  },
+  "homepage": "https://github.com/slavakharchenko/WebAcademy#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
