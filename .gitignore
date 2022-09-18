@@ -3,5 +3,6 @@ node_modules
 gitlab
 .DS_Store
 *tfplan*
-.terraform*
+.terraform.lock*
+./.terraform
 terraform.tfstate*
